@@ -1,0 +1,16 @@
+1. Full php 8 tutorial by Program with Gio:
+	https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
+
+2. php Tutorial bangla by Technology village : 
+	https://www.youtube.com/watch?v=hZCpoNM_NPk&list=PLJC7GfA2DHaDNEepP_9hL6_g6ouTPb74y
+
+3. Advanced PHP Tutorial Bangla by Nirob Hasan
+	https://www.youtube.com/watch?v=McGmHY9s6Qk&list=PLuz358yNU7MmhvQvN8PuG-dkN8qbYHVTk
+
+4. php full project bangla by Technology Village: 
+	https://www.youtube.com/watch?v=0mFchGjp0w0&list=PLJC7GfA2DHaDnI31YXv_of_JViODkENgu
+
+5. Learn PHP latest version update
+
+6. 100 php Projects-
+
